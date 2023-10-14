@@ -27,6 +27,7 @@
 		04A7198F29EB400300D494B6 /* TestCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A7198D29EB400300D494B6 /* TestCollectionViewCell.swift */; };
 		04A7199029EB400300D494B6 /* TestCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04A7198E29EB400300D494B6 /* TestCollectionViewCell.xib */; };
 		04A7199329EB4ED800D494B6 /* GameOverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A7199229EB4ED800D494B6 /* GameOverViewController.swift */; };
+		2BA8F8BD2ADA5A5700EA4EF9 /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 2BA8F8BC2ADA5A5700EA4EF9 /* screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +52,7 @@
 		04A7198D29EB400300D494B6 /* TestCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestCollectionViewCell.swift; sourceTree = "<group>"; };
 		04A7198E29EB400300D494B6 /* TestCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TestCollectionViewCell.xib; sourceTree = "<group>"; };
 		04A7199229EB4ED800D494B6 /* GameOverViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOverViewController.swift; sourceTree = "<group>"; };
+		2BA8F8BC2ADA5A5700EA4EF9 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 		04A7195329EB214000D494B6 = {
 			isa = PBXGroup;
 			children = (
+				2BA8F8BC2ADA5A5700EA4EF9 /* screenshot.png */,
 				04A7195E29EB214000D494B6 /* Alphabet Game */,
 				04A7195D29EB214000D494B6 /* Products */,
 			);
@@ -269,6 +272,7 @@
 				04A7199029EB400300D494B6 /* TestCollectionViewCell.xib in Resources */,
 				04A7196729EB214000D494B6 /* Main.storyboard in Resources */,
 				042F06CD29EBF68000D5D99E /* down.json in Resources */,
+				2BA8F8BD2ADA5A5700EA4EF9 /* screenshot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
